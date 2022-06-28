@@ -1,0 +1,12 @@
+# 폴더 제외
+.settings/
+Debug/
+Drivers/
+FATFS/
+Middlewares/
+
+# 파일 제외
+.cproject
+.mxproject
+.project
+*.launch
